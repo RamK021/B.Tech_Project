@@ -1,10 +1,12 @@
-*Title of the project:* Student Support Services
+***Title of the project:*** Student Support Services
 
 **Project Summary:**
+
 The "Student Support Services" project aims to create a comprehensive platform 
 that empowers students with easy access to academic information and enhances 
 their engagement with college events while offering a conversational interface 
 through a chatbot for personalized assistance.
+
 **Why do we need them?** In many colleges, the absence of a dedicated platform 
 for assisting both staff and students in managing various aspects of academic life 
 has led to the use of unconventional tools like WhatsApp. While WhatsApp 
