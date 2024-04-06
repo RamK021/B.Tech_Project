@@ -20,25 +20,25 @@ bridge this gap. Serving as an open-source platform, this application is designe
 to be adopted by educational institutions and organizations to streamline and 
 enhance communication and resource management within the academic 
 community.
-![Screenshot (363)](https://github.com/RamK021/B.Tech._Project/assets/116617204/44cfa7aa-516d-4692-9b25-e6f4e85d9236)
 
-![Screenshot (362)](https://github.com/RamK021/B.Tech._Project/assets/116617204/5caaefd5-3065-40a8-a7f1-434984283c4f)
+![Screenshot (354)](https://github.com/RamK021/B.Tech._Project/assets/116617204/7ab37534-e919-43c2-ab5a-19928f719fe9)
 
-![Screenshot (361)](https://github.com/RamK021/B.Tech._Project/assets/116617204/2897fc4c-18a7-4676-bf07-9c56119ea0de)
+![Screenshot (355)](https://github.com/RamK021/B.Tech._Project/assets/116617204/7060e607-2c6e-446b-a83d-55981bafcc4c)
 
-![Screenshot (360)](https://github.com/RamK021/B.Tech._Project/assets/116617204/d2b6b524-f94a-4730-9a02-5a5a3c5300d0)
+![Screenshot (356)](https://github.com/RamK021/B.Tech._Project/assets/116617204/f47f9ef0-35e0-4ff2-a954-7d09e0017100)
 
-![Screenshot (359)](https://github.com/RamK021/B.Tech._Project/assets/116617204/56be9457-c709-4f42-9e20-16cd50709f79)
+![Screenshot (357)](https://github.com/RamK021/B.Tech._Project/assets/116617204/4f3a6272-f7a3-4eea-841a-4fd499ab6115)
 
-![Screenshot (358)](https://github.com/RamK021/B.Tech._Project/assets/116617204/6dce7dec-3f6d-4fe6-8998-a45f991ee92d)
+![Screenshot (358)](https://github.com/RamK021/B.Tech._Project/assets/116617204/fb04ec9e-9f54-4be8-abea-1e99bcc81f2d)
 
-![Screenshot (357)](https://github.com/RamK021/B.Tech._Project/assets/116617204/cc4fe4a6-92f2-450e-a3cd-7deb56bece97)
+![Screenshot (359)](https://github.com/RamK021/B.Tech._Project/assets/116617204/337551fc-bee2-4fee-8f3a-5ba920853432)
 
-![Screenshot (356)](https://github.com/RamK021/B.Tech._Project/assets/116617204/1a5e174d-ffdf-4486-9f75-e76391b5bd5f)
+![Screenshot (360)](https://github.com/RamK021/B.Tech._Project/assets/116617204/35159e8a-5ffb-423b-9085-517a4eb60907)
 
-![Screenshot (355)](https://github.com/RamK021/B.Tech._Project/assets/116617204/b57370b4-2bbb-4daa-8420-84be8a3fb4db)
+![Screenshot (361)](https://github.com/RamK021/B.Tech._Project/assets/116617204/cdecc2c4-a510-466d-adf1-283771be0b7c)
 
-![Screenshot (354)](https://github.com/RamK021/B.Tech._Project/assets/116617204/c776f497-fbbf-4a0d-b235-867d97992a9a)
+![Screenshot (362)](https://github.com/RamK021/B.Tech._Project/assets/116617204/0548a7b6-e68f-402f-a074-950b3008d0b2)
 
+![Screenshot (363)](https://github.com/RamK021/B.Tech._Project/assets/116617204/1be10a79-1a82-4809-acb0-73b444cab9da)
 
 
