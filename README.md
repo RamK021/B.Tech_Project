@@ -2,7 +2,7 @@
 
 **Project Summary:**
 
-The "Student Support Services" project aims to create a comprehensive platform 
+The *"Student Support Services"* project aims to create a comprehensive platform 
 that empowers students with easy access to academic information and enhances 
 their engagement with college events while offering a conversational interface 
 through a chatbot for personalized assistance.
@@ -14,7 +14,8 @@ serves as a communication channel, it falls short in providing a structured and
 comprehensive solution for addressing critical issues such as fees payment, 
 access to academic information, and organized resources, as well as keeping the 
 community informed about college activities.
-The "Student Support Services" application emerges as a crucial solution to 
+
+The *"Student Support Services"* application emerges as a crucial solution to 
 bridge this gap. Serving as an open-source platform, this application is designed 
 to be adopted by educational institutions and organizations to streamline and 
 enhance communication and resource management within the academic 
