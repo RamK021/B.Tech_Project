@@ -1,4 +1,5 @@
-**Title of the project:** Student Support Services
+*Title of the project:* Student Support Services
+
 **Project Summary:**
 The "Student Support Services" project aims to create a comprehensive platform 
 that empowers students with easy access to academic information and enhances 
