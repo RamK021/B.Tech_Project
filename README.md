@@ -1,4 +1,4 @@
-***Title of the project:*** Student Support Services
+***Title of the project:*** Student Support Services *(ongoing)*
 
 **Project Summary:**
 
